@@ -1,5 +1,9 @@
 {
     "name": "abhimanyusingh/abhimanyu",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Abhimanyusingh\\Abhimanyu\\": "src/"
