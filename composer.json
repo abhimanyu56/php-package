@@ -1,0 +1,15 @@
+{
+    "name": "abhimanyusingh/abhimanyu",
+    "autoload": {
+        "psr-4": {
+            "Abhimanyusingh\\Abhimanyu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abhimanyu Singh",
+            "email": "abhimanyu56@gmail.com"
+        }
+    ],
+    "require": {}
+}
